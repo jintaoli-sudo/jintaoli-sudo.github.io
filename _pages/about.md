@@ -18,7 +18,7 @@ redirect_from:
 -->
 
 
-- I recived my M.Sc. degree in Chemical and Biomolecular Engineering from [Hong Kong University of Science and Technology](https://ust.hk), and my B.Eng degree in Chemical Engineering and Technolohy from [Southwest Petroleum Univeristy](https://www.swpu.edu.cn/en/).
+- I recived my M.Sc. degree in Chemical and Biomolecular Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), and my B.Eng degree in Chemical Engineering and Technolohy from [Southwest Petroleum Univeristy](https://www.swpu.edu.cn/en/).
 
 
 Recents news
