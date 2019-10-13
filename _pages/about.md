@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am a Ph.D. student in the [Department of Chemical Engineering](https://www.ch.t.kyoto-u.ac.jp/en?set_language=en) at [Kyoto Univerisity](https://www.kyoto-u.ac.jp/en/). I am under the supervision of [Prof. Ryoichi Yamamoto](http://www-tph.cheme.kyoto-u.ac.jp/index.pukiwiki.php?ry%2FFrontPage)([Google Scholar](https://scholar.google.com/citations?user=ZVwSewgAAAAJ&hl=en) [Lab page](http://www-tph.cheme.kyoto-u.ac.jp/en/)).
+- I am a Ph.D. student in the [Department of Chemical Engineering](https://www.ch.t.kyoto-u.ac.jp/en?set_language=en) at [Kyoto Univerisity](https://www.kyoto-u.ac.jp/en/). I am under the supervision of [Prof. Ryoichi Yamamoto](http://www-tph.cheme.kyoto-u.ac.jp/index.pukiwiki.php?ry%2FFrontPage) ([Google Scholar](https://scholar.google.com/citations?user=ZVwSewgAAAAJ&hl=en), [Lab page](http://www-tph.cheme.kyoto-u.ac.jp/en/)).
 
 - My research interests including numerical modeling of biological systems, mainly at level of cell-base tissue, specifically for comepetition/coexsitence of biological tissue, mechanical modeling of tumor growth and interface dynamics of 3D colony growth.
 
