@@ -24,6 +24,6 @@ redirect_from:
 Recents news
 ======
 - April 1st, 2019. I enrolled Kyoto University as a Ph.D. student.
-- Oct 1st, 2018. I joined Prof. Ryoichi Yamamoto's lab as a research student.
+- October 1st, 2018. I joined Prof. Ryoichi Yamamoto's lab as a research student.
 - June, 2018. I graduated from HKUST.
 - June, 2017. I graduated from SWPU.
