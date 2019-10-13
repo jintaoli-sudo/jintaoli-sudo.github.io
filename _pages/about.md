@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Chemical Engineering](https://www.ch.t.kyoto-u.ac.jp/en?set_language=en) at [Kyoto Univerisity](https://www.kyoto-u.ac.jp/en/). I am under the supervision of [Prof. Ryoichi Yamamoto](http://www-tph.cheme.kyoto-u.ac.jp/index.pukiwiki.php?ry%2FFrontPage), [Lab page](http://www-tph.cheme.kyoto-u.ac.jp/en/).
+-I am a Ph.D. student in the [Department of Chemical Engineering](https://www.ch.t.kyoto-u.ac.jp/en?set_language=en) at [Kyoto Univerisity](https://www.kyoto-u.ac.jp/en/). I am under the supervision of [Prof. Ryoichi Yamamoto](http://www-tph.cheme.kyoto-u.ac.jp/index.pukiwiki.php?ry%2FFrontPage), [Lab page](http://www-tph.cheme.kyoto-u.ac.jp/en/).
 
-My research interests including numerical modeling of biological systems, mainly at level of cell-base tissue, specifically for comepetition/coexsitence of biological tissue, mechanical modeling of tumor growth and interface dynamics of 3D colony growth.
-
-
+-My research interests including numerical modeling of biological systems, mainly at level of cell-base tissue, specifically for comepetition/coexsitence of biological tissue, mechanical modeling of tumor growth and interface dynamics of 3D colony growth.
 ![Screenshot of simulation of mixed cells](/images/eg.png)
 *Screenshot of simulation of mixed cells*
 
-I recived my Ms.C. degree in Chemical and Biomolecular Engineering from [the Hong Kong University of Science and Technology](https://ust.hk), and my B.Eng degree in Chemical Engineering and Technolohy from [Southwest Petroleum Univeristy](https://www.swpu.edu.cn/en/).
+-I recived my M.Sc. degree in Chemical and Biomolecular Engineering from [the Hong Kong University of Science and Technology](https://ust.hk), and my B.Eng degree in Chemical Engineering and Technolohy from [Southwest Petroleum Univeristy](https://www.swpu.edu.cn/en/).
 
 
 Recents news
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+-April 1st, 2019. I enrolled Kyoto University as a Ph.D. student.
+-Oct 1st, 2018. I joined Prof. Ryoichi Yamamoto's lab as a research student.
+-June, 2018. I graduated from HKUST.
+-June, 2017. I graduated from SWPU.
