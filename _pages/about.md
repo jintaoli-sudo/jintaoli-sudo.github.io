@@ -12,8 +12,9 @@ redirect_from:
 
 - My research interests including numerical modeling of biological systems, mainly at level of cell-base tissue, specifically for comepetition/coexsitence of biological tissue, mechanical modeling of tumor growth and interface dynamics of 3D colony growth.
 
-<img src="/images/eg.png" width = "200" height = "200" alt="eg" align=center />
-*Screenshot of simulation of mixed cells*
+
+#<img src="/images/eg.png" width = "200" height = "200" alt="eg" align=center />
+#*Screenshot of simulation of mixed cells*
 
 
 
