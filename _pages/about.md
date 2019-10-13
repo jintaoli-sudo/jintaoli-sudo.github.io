@@ -11,9 +11,9 @@ redirect_from:
 -I am a Ph.D. student in the [Department of Chemical Engineering](https://www.ch.t.kyoto-u.ac.jp/en?set_language=en) at [Kyoto Univerisity](https://www.kyoto-u.ac.jp/en/). I am under the supervision of [Prof. Ryoichi Yamamoto](http://www-tph.cheme.kyoto-u.ac.jp/index.pukiwiki.php?ry%2FFrontPage), [Lab page](http://www-tph.cheme.kyoto-u.ac.jp/en/).
 
 -My research interests including numerical modeling of biological systems, mainly at level of cell-base tissue, specifically for comepetition/coexsitence of biological tissue, mechanical modeling of tumor growth and interface dynamics of 3D colony growth.
-
+<img src="/images/eg.png" width = "200" height = "200" alt="eg" align=center />
 *Screenshot of simulation of mixed cells*
-![Screenshot of simulation of mixed cells]<img src="/images/eg.png" width = "200" height = "200" alt="eg" align=center />
+
 
 
 -I recived my M.Sc. degree in Chemical and Biomolecular Engineering from [the Hong Kong University of Science and Technology](https://ust.hk), and my B.Eng degree in Chemical Engineering and Technolohy from [Southwest Petroleum Univeristy](https://www.swpu.edu.cn/en/).
