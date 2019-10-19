@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /updatesoon/
+    url: /publications/
 
   - title: "Talks"
-    url: /updatesoon/    
+    url: /talks/    
         
   - title: "Blog Posts"
-    url: /updatesoon/
+    url: /year-archive/
     
   - title: "CV"
-    url: /updatesoon/
+    url: /cv/
