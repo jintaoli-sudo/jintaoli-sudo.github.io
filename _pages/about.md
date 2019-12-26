@@ -23,6 +23,7 @@ redirect_from:
 
 Recents news
 ======
+- Decemeber 2019, I was selected by [the Uehara Memorial Foundation Research Fellowship Program](https://www.ueharazaidan.or.jp), from January 2020 to December 2021.
 - April 1st, 2019. I enrolled Kyoto University as a Ph.D. student.
 - October 1st, 2018. I joined Prof. Ryoichi Yamamoto's lab as a research student.
 - June, 2018. I graduated from HKUST.
