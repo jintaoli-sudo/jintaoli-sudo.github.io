@@ -1,1 +1,10 @@
+---
+title: 'Thoughts on Zen Caveats(Chinese only)'
+date: 2199-01-01
+permalink: /posts/2012/08/blog-post-4/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
 循规守矩。无绳自缚。纵横无碍。外道魔军。存心澄寂。默照邪禅恣。瓷意忘缘。堕落深坑。惺惺不昧。带锁担枷。思善思恶。地狱天堂。佛见法见二铁围山。念起即觉。弄精魂汉。兀然习定。鬼家活计。进则迷理。退则乖宗。不进不退。有气死人。且道如何履践。努力今生须了却。莫教永劫受馀殃。
