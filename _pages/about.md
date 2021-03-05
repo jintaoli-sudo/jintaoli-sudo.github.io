@@ -30,9 +30,9 @@ Recents news
 - Decemeber 2020, a preprint collaborated with Matthew and Simon has been posted on [arXiv](https://arxiv.org/abs/2012.07647).
 - August 2020, a paper coathuhored with Jiayuan and Richard has been published in [Fluid Phase Equilibria](https://www.sciencedirect.com/science/article/abs/pii/S0378381220301515). 
 <!--
-- Decemeber 2019, I was selected by [the Uehara Memorial Foundation Research Fellowship Program](https://www.ueharazaidan.or.jp), from January 2020 to December 2021.
-- April 1st, 2019. I enrolled Kyoto University as a Ph.D. student.
-- October 1st, 2018. I joined Prof. Ryoichi Yamamoto's lab as a research student.
-- June, 2018. I graduated from HKUST.
-- June, 2017. I graduated from SWPU.
+# - Decemeber 2019, I was selected by [the Uehara Memorial Foundation Research Fellowship Program](https://www.ueharazaidan.or.jp), from January 2020 to December 2021.
+# - April 1st, 2019. I enrolled Kyoto University as a Ph.D. student.
+# - October 1st, 2018. I joined Prof. Ryoichi Yamamoto's lab as a research student.
+# - June, 2018. I graduated from HKUST.
+# - June, 2017. I graduated from SWPU.
 -->
