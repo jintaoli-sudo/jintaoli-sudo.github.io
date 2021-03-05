@@ -86,7 +86,7 @@ author:
   location         : "Kyoto, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=en&user=zlCBoJIAAAAJ&view_op=list_works&sortby=pubdate"
   email            : li.j@cheme.kyoto-u.ac.jp
   researchgate     : https://www.researchgate.net/profile/Jintao_Li9
   uri              :
