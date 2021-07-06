@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 [Download the CV](https://hkustconnect-my.sharepoint.com/:b:/g/personal/jlids_connect_ust_hk/EeQDu_R6APxEgrc1h0xlvnsBZlrntQ8WbER7wZNpdNR0rA?e=u5wDYr).
+
 Updated date: July 2021.
+
 For latest CV, please contact jintao-li@outlook.com.
 
 {% include base_path %}
