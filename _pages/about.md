@@ -31,7 +31,7 @@ redirect_from:
 Recents news
 ======
 - July 2021, our manuscript has been published on [Physical Review X](https://journals.aps.org/prx/accepted/2d079K2bMb61e70bd53d29a5e32455f0e3b80a0fa).
-- July 2021, I started my 3-month visit at [Takeuchi Lab at Univ. of Tokyo](http://lab.kaztake.org).
+- July 2021, I started my 3-month visit at [Takeuchi Lab](http://lab.kaztake.org) at Univ. of Tokyo.
 - March 2021, Simon present our recent work at [APS March Meeting 2021](https://meetings.aps.org/Meeting/MAR21/Session/C13.8).
 - February 2021, I present my recent work at [Warwick CMCB Lab Talk](https://twitter.com/Warwick_CMCB/status/1361603474098634755).
 - January 2021, I present my recent work at [Active Matter Workshop 2021](https://sites.google.com/view/activematter2021).
