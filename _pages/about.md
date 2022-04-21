@@ -11,9 +11,6 @@ redirect_from:
 
 - I use to be a Ph.D. student in the [Department of Chemical Engineering](https://www.ch.t.kyoto-u.ac.jp/en?set_language=en) at [Kyoto Univerisity](https://www.kyoto-u.ac.jp/en/). I was under the supervision of [Prof. Ryoichi Yamamoto](http://www-tph.cheme.kyoto-u.ac.jp/index.pukiwiki.php?ry%2FFrontPage) ([Google Scholar](https://scholar.google.com/citations?user=ZVwSewgAAAAJ&hl=en), [Lab page](http://www-tph.cheme.kyoto-u.ac.jp/en/)), with an enjoyable and fruitful collobaration with [Prof. Matthew Turner](https://scholar.google.com.hk/citations?user=HjxetPMAAAAJ&hl=en&authuser=1) and [Prof. Simon Schnyder](https://scholar.google.com.hk/citations?user=XkerYaAAAAAJ&hl=en&authuser=1). My past research interests (when I was in acdemia) including numerical modeling of biological systems, mainly at level of cell-base tissue, specifically for comepetition/coexsitence of biological tissue, mechanical modeling of tumor growth and interface dynamics of 3D colony growth.
 
-
-
-
 - I recived my Ph.D. degree in Chemical Engineering from [Kyoto University](https://www.kyoto-u.ac.jp/ja), M.Sc. degree in Chemical and Biomolecular Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), and my B.Eng. degree in Chemical Engineering and Technolohy from [Southwest Petroleum Univeristy](https://www.swpu.edu.cn/en/).
 
 - Born and raised in Sichuan, China.
@@ -24,8 +21,8 @@ Recents news
 - April 2022, I joined [CTW inc](https://ctw.inc) as a Data Scientist.
 - March 2022, I graduated from Kyoto University with a Ph.D. degree of Chemical Engineering.
 - March 2022, I present our recent work at [APS March Meeting 2022](https://meetings.aps.org/Meeting/MAR22/Session/G04.13)
-<!--
-- July 2021, our paper has been published on [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031025).
+
+<!-- - July 2021, our paper has been published on [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031025).
 - July 2021, I started my 3-month visit at [Takeuchi Lab](http://lab.kaztake.org) at the Univ. of Tokyo.
 - March 2021, Simon present our recent work at [APS March Meeting 2021](https://meetings.aps.org/Meeting/MAR21/Session/C13.8).
 - February 2021, I present my recent work at [Warwick CMCB Lab Talk](https://twitter.com/Warwick_CMCB/status/1361603474098634755).
@@ -38,5 +35,4 @@ Recents news
 # - April 1st, 2019. I enrolled Kyoto University as a Ph.D. student.
 # - October 1st, 2018. I joined Prof. Ryoichi Yamamoto's lab as a research student.
 # - June, 2018. I graduated from HKUST.
-# - June, 2017. I graduated from SWPU.
--->
+# - June, 2017. I graduated from SWPU. -->
