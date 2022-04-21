@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jintao Li"
 title_separator          : "-"
 name                     : &name "Jintao Li"
-description              : &description "PhD student at Kyoto University"
+description              : &description "Data Scientist at CTW inc"
 url                      : https://li-jintao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "li-jintao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jintao Li"
   avatar           : "F86D24A3-A0DE-4E89-9978-4257BDD5DAEA_1_201_a.jpeg"
-  bio              : "Ph.D. student, Department of Chemical Engineering, Kyoto Univeristy."
-  location         : "Kyoto, Japan"
+  bio              : "Data Scientisi, CTW inc."
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=en&user=zlCBoJIAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : li.j@cheme.kyoto-u.ac.jp
+  email            : jintao-li@outlook.com
   researchgate     : https://www.researchgate.net/profile/Jintao_Li9
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        : #jintao2018
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :https://www.linkedin.com/in/jintao-li-18088b135/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
