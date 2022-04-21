@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am a Ph.D. student in the [Department of Chemical Engineering](https://www.ch.t.kyoto-u.ac.jp/en?set_language=en) at [Kyoto Univerisity](https://www.kyoto-u.ac.jp/en/). I am under the supervision of [Prof. Ryoichi Yamamoto](http://www-tph.cheme.kyoto-u.ac.jp/index.pukiwiki.php?ry%2FFrontPage) ([Google Scholar](https://scholar.google.com/citations?user=ZVwSewgAAAAJ&hl=en), [Lab page](http://www-tph.cheme.kyoto-u.ac.jp/en/)).
-
-- My research interests including numerical modeling of biological systems, mainly at level of cell-base tissue, specifically for comepetition/coexsitence of biological tissue, mechanical modeling of tumor growth and interface dynamics of 3D colony growth.
+- I use to be a Ph.D. student in the [Department of Chemical Engineering](https://www.ch.t.kyoto-u.ac.jp/en?set_language=en) at [Kyoto Univerisity](https://www.kyoto-u.ac.jp/en/). I was under the supervision of [Prof. Ryoichi Yamamoto](http://www-tph.cheme.kyoto-u.ac.jp/index.pukiwiki.php?ry%2FFrontPage) ([Google Scholar](https://scholar.google.com/citations?user=ZVwSewgAAAAJ&hl=en), [Lab page](http://www-tph.cheme.kyoto-u.ac.jp/en/)), with an enjoyable and fruitful collobaration with [Prof. Matthew Turner](https://scholar.google.com.hk/citations?user=HjxetPMAAAAJ&hl=en&authuser=1) and [Prof. Simon Schnyder](https://scholar.google.com.hk/citations?user=XkerYaAAAAAJ&hl=en&authuser=1). My past research interests (when I was in acdemia) including numerical modeling of biological systems, mainly at level of cell-base tissue, specifically for comepetition/coexsitence of biological tissue, mechanical modeling of tumor growth and interface dynamics of 3D colony growth.
 
 <!--
 # (<img src="/images/eg.png" width = "200" height = "200" alt="eg" align=center />)
@@ -23,19 +21,23 @@ redirect_from:
 -->
 
 
-- I recived my M.Sc. degree in Chemical and Biomolecular Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), and my B.Eng. degree in Chemical Engineering and Technolohy from [Southwest Petroleum Univeristy](https://www.swpu.edu.cn/en/).
+- I recived my Ph.D. degree in Chemical Engineering from [Kyoto University](https://www.kyoto-u.ac.jp/ja), M.Sc. degree in Chemical and Biomolecular Engineering from [Hong Kong University of Science and Technology](https://www.ust.hk), and my B.Eng. degree in Chemical Engineering and Technolohy from [Southwest Petroleum Univeristy](https://www.swpu.edu.cn/en/).
 
 - Born and raised in Sichuan, China.
 
 
 Recents news
 ======
+- April 2022, I joined [CTW inc](https://ctw.inc) as a Data Scientist.
+- March 2022, I graduated from Kyoto University with a Ph.D. degree of Chemical Engineering.
+- March 2022, I present our recent work at [APS March Meeting 2022](https://meetings.aps.org/Meeting/MAR22/Session/G04.13)
 - July 2021, our paper has been published on [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031025).
+
+
+<!--
 - July 2021, I started my 3-month visit at [Takeuchi Lab](http://lab.kaztake.org) at the Univ. of Tokyo.
 - March 2021, Simon present our recent work at [APS March Meeting 2021](https://meetings.aps.org/Meeting/MAR21/Session/C13.8).
 - February 2021, I present my recent work at [Warwick CMCB Lab Talk](https://twitter.com/Warwick_CMCB/status/1361603474098634755).
-
-<!--
 - January 2021, I present my recent work at [Active Matter Workshop 2021](https://sites.google.com/view/activematter2021).
 - Decemeber 2020, a preprint collaborated with Matthew and Simon has been posted on [arXiv](https://arxiv.org/abs/2012.07647).
 - August 2020, a paper coathuhored with Jiayuan and Richard has been published in [Fluid Phase Equilibria](https://www.sciencedirect.com/science/article/abs/pii/S0378381220301515). 
