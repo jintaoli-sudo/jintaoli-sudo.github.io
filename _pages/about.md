@@ -22,7 +22,8 @@ Recents news
 - March 2022, I graduated from Kyoto University with a Ph.D. degree of Chemical Engineering.
 - March 2022, I present our recent work at [APS March Meeting 2022](https://meetings.aps.org/Meeting/MAR22/Session/G04.13)
 
-<!--
+
+<!-- 
 - July 2021, our paper has been published on [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031025).
 - July 2021, I started my 3-month visit at [Takeuchi Lab](http://lab.kaztake.org) at the Univ. of Tokyo.
 - March 2021, Simon present our recent work at [APS March Meeting 2021](https://meetings.aps.org/Meeting/MAR21/Session/C13.8).
@@ -30,8 +31,8 @@ Recents news
 - January 2021, I present my recent work at [Active Matter Workshop 2021](https://sites.google.com/view/activematter2021).
 - Decemeber 2020, a preprint collaborated with Matthew and Simon has been posted on [arXiv](https://arxiv.org/abs/2012.07647).
 - August 2020, a paper coathuhored with Jiayuan and Richard has been published in [Fluid Phase Equilibria](https://www.sciencedirect.com/science/article/abs/pii/S0378381220301515). 
-(<img src="/images/eg.png" width = "200" height = "200" alt="eg" align=center />)
-(*Screenshot of simulation of mixed cells*)
+- (<img src="/images/eg.png" width = "200" height = "200" alt="eg" align=center />)
+- (*Screenshot of simulation of mixed cells*)
 - Decemeber 2019, I was selected by [the Uehara Memorial Foundation Research Fellowship Program](https://www.ueharazaidan.or.jp), from January 2020 to December 2021.
 - April 1st, 2019. I enrolled Kyoto University as a Ph.D. student.
 - October 1st, 2018. I joined Prof. Ryoichi Yamamoto's lab as a research student.
