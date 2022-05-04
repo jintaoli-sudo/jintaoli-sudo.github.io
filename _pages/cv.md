@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+I came from an academic background of Chemical Engineering, with research experiences in Petrochemical Process, Thermodynamic Modeling and Active Matter System. With the years of training, I picked up several key skills, including programming, data analysis and algorithm optimization. 
+
+
 [CV as July 2021](https://hkustconnect-my.sharepoint.com/:b:/g/personal/jlids_connect_ust_hk/EeQDu_R6APxEgrc1h0xlvnsBZlrntQ8WbER7wZNpdNR0rA?e=u5wDYr).
 
 For latest CV, please contact jintao-li@outlook.com.
@@ -18,6 +21,8 @@ Education
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+
 
 Work experience
 ======
