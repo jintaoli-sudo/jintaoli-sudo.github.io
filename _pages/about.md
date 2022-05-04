@@ -16,7 +16,7 @@ redirect_from:
 - Born and raised in Sichuan, China.
 
 
-Recents news
+Recent news
 ======
 - April 2022, I joined [CTW Inc](https://ctw.inc) as a Data Scientist.
 - March 2022, I graduated from Kyoto University with a Ph.D. degree of Chemical Engineering.
