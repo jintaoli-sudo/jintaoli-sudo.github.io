@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-[Download the CV](https://hkustconnect-my.sharepoint.com/:b:/g/personal/jlids_connect_ust_hk/EeQDu_R6APxEgrc1h0xlvnsBZlrntQ8WbER7wZNpdNR0rA?e=u5wDYr). Updated in July 2021.
+[CV as July 2021](https://hkustconnect-my.sharepoint.com/:b:/g/personal/jlids_connect_ust_hk/EeQDu_R6APxEgrc1h0xlvnsBZlrntQ8WbER7wZNpdNR0rA?e=u5wDYr).
 
 For latest CV, please contact jintao-li@outlook.com.
 
 {% include base_path %}
-<!--
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -61,4 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
--->
+
