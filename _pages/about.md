@@ -26,7 +26,7 @@ Recent news
 - April 2022, I joined [CTW Inc](https://ctw.inc) as a Data Scientist.
 - March 2022, I graduated from Kyoto University with a Ph.D. degree of Chemical Engineering.
 - March 2022,  I present *“Competition between two cell types under cell cycle regulation with apoptosis”* at [APS March Meeting 2022](https://meetings.aps.org/Meeting/MAR22/Session/G04.13)
-- Jan 2022, I present *“Mechanical competition between different cell types”* at [Active Matter Workshop 2022]([https://meetings.aps.org/Meeting/MAR22/Session/G04.13](https://sites.google.com/view/activematter2022))
+- Jan 2022, I present *“Mechanical competition between different cell types”* at [Active Matter Workshop 2022](https://sites.google.com/view/activematter2022)
 - July 2021, our paper *Role of the Cell Cycle in Collective Cell Dynamics* has been published on [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031025).
 - July 2021, I started my 3-month visit at [Takeuchi Lab](http://lab.kaztake.org) at the Univ. of Tokyo.
 
