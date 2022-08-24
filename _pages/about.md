@@ -19,6 +19,8 @@ Research
 ======
 I used to do research in 
 
+![This is an image](images/research_outline_all.pdf)
+
 Recent news
 ======
 - August 2022, I resigned from [CTW Inc](https://ctw.inc), and now open to work as Research Enginner/Data Scientist/Machine Learning Enginner.
