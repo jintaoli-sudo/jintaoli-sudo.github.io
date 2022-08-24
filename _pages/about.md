@@ -21,14 +21,14 @@ I used to do research in
 
 Recent news
 ======
-- August 2022, I resigned from [CTW Inc](https://ctw.inc), and now open to work as Research Enginner/Data Scientist/Machine Learning Enginner.
+- August 2022, I resigned from [*CTW Inc*](https://ctw.inc), and now open to work as Research Enginner/Data Scientist/Machine Learning Enginner.
 - August 2022, our paper *Competition between Cell Types under Cell Cycle Regulation with Apoptosis* has been accpeted on Physical Review Research.
-- April 2022, I joined [CTW Inc](https://ctw.inc) as a Data Scientist.
+- April 2022, I joined [*CTW Inc*](https://ctw.inc) as a Data Scientist.
 - March 2022, I graduated from Kyoto University with a Ph.D. degree of Chemical Engineering.
 - March 2022,  I present [*Competition between two cell types under cell cycle regulation with apoptosis*](https://meetings.aps.org/Meeting/MAR22/Session/G04.13) at APS March Meeting 2022.
 - Jan 2022, I present [*Mechanical competition between different cell types*](https://sites.google.com/view/activematter2022) at Active Matter Workshop 2022.
 - July 2021, our paper [*Role of the Cell Cycle in Collective Cell Dynamics*](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031025) has been published on Physical Review X.
-- July 2021, I started my 3-month visit at [Takeuchi Lab](http://lab.kaztake.org) at the Univ. of Tokyo.
+- July 2021, I started my 3-month visit at [*Takeuchi Lab*](http://lab.kaztake.org) at the Univ. of Tokyo.
 
 <!-- 
 - March 2021, Simon present our recent work at [APS March Meeting 2021](https://meetings.aps.org/Meeting/MAR21/Session/C13.8).
