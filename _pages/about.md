@@ -21,12 +21,10 @@ Recent news
 - April 2022, I joined [CTW Inc](https://ctw.inc) as a Data Scientist.
 - March 2022, I graduated from Kyoto University with a Ph.D. degree of Chemical Engineering.
 - March 2022, I present our recent work at [APS March Meeting 2022](https://meetings.aps.org/Meeting/MAR22/Session/G04.13)
-
-
-
-<!-- 
 - July 2021, our paper has been published on [Physical Review X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031025).
 - July 2021, I started my 3-month visit at [Takeuchi Lab](http://lab.kaztake.org) at the Univ. of Tokyo.
+
+<!-- 
 - March 2021, Simon present our recent work at [APS March Meeting 2021](https://meetings.aps.org/Meeting/MAR21/Session/C13.8).
 - February 2021, I present my recent work at [Warwick CMCB Lab Talk](https://twitter.com/Warwick_CMCB/status/1361603474098634755).
 - January 2021, I present my recent work at [Active Matter Workshop 2021](https://sites.google.com/view/activematter2021).
