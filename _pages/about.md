@@ -21,7 +21,7 @@ redirect_from:
 Recent news
 ======
 - August 2022, I resigned from [CTW Inc](https://ctw.inc), and now open to work as Research Enginner/Data Scientist/Machine Learning Enginner.
-- August 2022, our paper *Competition between Cell Types under Cell Cycle Regulation with Apoptosis* has been published on Physical Review Research.
+- August 2022, our paper *Competition between Cell Types under Cell Cycle Regulation with Apoptosis* has been accpeted on Physical Review Research.
 - April 2022, I joined [CTW Inc](https://ctw.inc) as a Data Scientist.
 - March 2022, I graduated from Kyoto University with a Ph.D. degree of Chemical Engineering.
 - March 2022, I present our recent work at [APS March Meeting 2022](https://meetings.aps.org/Meeting/MAR22/Session/G04.13)
