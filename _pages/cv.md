@@ -49,13 +49,13 @@ Online courses
 * [PyTorch for Deep Learning](https://www.icloud.com/iclouddrive/098bnLVQJf1N2GakBXc6_Voug#python-for-deep-learning-zero-to-mastery)
   * by Zero To Mastery Academy.
   * Issued Aug 2022.
-* DeepLearning.AI TensorFlow Developer Specialization
+* [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/H6TDQVQS266U)
   * by Coursera.
   * Issued Jan 2021. 
-* Deep Learning Specialization
+* [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/WDVPUYTPNS98)
   * by Coursera.
   * Issued Oct 2020.
-* Professional Certificate in Computer Science for Artificial Intelligence
+* [Professional Certificate in Computer Science for Artificial Intelligence](https://credentials.edx.org/credentials/bf0c2d7654be4553b79f352375e05506/)
   * by edX.
   * Issued Sep 2020.
 
@@ -66,7 +66,7 @@ Languages
 * Japanese: Daily conversation level (JLPT N2)
  
 
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
 
