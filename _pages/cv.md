@@ -16,54 +16,55 @@ For more details, please contact jintao-li@outlook.com.
 
 Education
 ======
-* Apr 2019 - Mar 2022 
-** Ph.D in Chemical Enginnering, Kyoto University, 2022
-* M.Sc. in Chemical and Biomolecular Engineering Hong Kong University of Science and Technology, Hong Kong, 2018
+* Ph.D in Chemical Engineering, Kyoto University
+  * Apr 2019 - Mar 2022
+  * Advisor: [Prof. Ryoichi Yamamoto](https://www-tph.cheme.kyoto-u.ac.jp)
+  * Thesis: *Understanding the Physical Mechanisms behind the Collective Dynamics of Proliferating Cells*
+* M.Sc. in Chemical and Biomolecular Engineering, Hong Kong University of Science and Technology, Hong Kong
+  * Sep 2017  - Nov 2018
+  * Advisor: [Prof. Richard Lakerveld](http://kelakerveld.people.ust.hk)
+  * Thesis: *Modified eNRTL-SAC Model for Aqueous Electrolyte Solution*
 * B.Eng. in Chemical Engineering and Technology, Southwest Petroleum University, China, 2017 
-
-
-
-
+  * Sep 2013 - Jun 2017
+  * Thesis: *The process design of 1 mt/y diesel hydrogenation unit*
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Scientist, CTW Inc
+  * Apr - Aug 2022
+  * Fradu user detection
+  * Machine translation
+  
+Programming skills
+======
+* C++: 3 years, participated in developing a large-scale particle-based simulation program during Ph.D. course.
+* Python: 4 years, for data processing, visualization and machine learning framework.
+  * Pandas, NumPy, Matplotlib, PyTorch.
+* Git: 1.5 years.
+* AWS: 1 year.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Online courses
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* [PyTorch for Deep Learning](https://www.icloud.com/iclouddrive/098bnLVQJf1N2GakBXc6_Voug#python-for-deep-learning-zero-to-mastery)
+  * by Zero To Mastery Academy.
+  * Issued Aug 2022.
+* DeepLearning.AI TensorFlow Developer Specialization
+  * by Coursera
+  * Issued Jan 2021. 
+Credential ID H6TDQVQS266UCredential ID H6TDQVQS266U
+
+Show credential
+
+
+
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Chinese: Native
+* English: Full professional proficiency (TOEFL iBT: 100/120)
+* Japanese: Daily conversation level (JLPT N2)
+ 
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
