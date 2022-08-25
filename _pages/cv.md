@@ -16,9 +16,12 @@ For more details, please contact jintao-li@outlook.com.
 
 Education
 ======
-* B.Eng. in Chemical Engineering and Technology, Southwest Petroleum University, China, 2017 
+* Apr 2019 - Mar 2022 
+** Ph.D in Chemical Enginnering, Kyoto University, 2022
 * M.Sc. in Chemical and Biomolecular Engineering Hong Kong University of Science and Technology, Hong Kong, 2018
-* Ph.D in Chemical Enginnering, Kyoto University, 2022
+* B.Eng. in Chemical Engineering and Technology, Southwest Petroleum University, China, 2017 
+
+
 
 
 
