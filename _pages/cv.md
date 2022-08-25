@@ -50,13 +50,14 @@ Online courses
   * by Zero To Mastery Academy.
   * Issued Aug 2022.
 * DeepLearning.AI TensorFlow Developer Specialization
-  * by Coursera
+  * by Coursera.
   * Issued Jan 2021. 
-Credential ID H6TDQVQS266UCredential ID H6TDQVQS266U
-
-Show credential
-
-
+* Deep Learning Specialization
+  * by Coursera.
+  * Issued Oct 2020.
+* Professional Certificate in Computer Science for Artificial Intelligence
+  * by edX.
+  * Issued Sep 2020.
 
 Languages
 ======
