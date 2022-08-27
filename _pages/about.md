@@ -14,13 +14,6 @@ redirect_from:
 
 - Born and raised in Sichuan, China.
 
-
-Research
-======
-I used to do research in 
-
-![This is an image](../images/research_outline_all.pdf)
-
 Recent news
 ======
 - August 2022, I resigned from [CTW Inc](https://ctw.inc).
