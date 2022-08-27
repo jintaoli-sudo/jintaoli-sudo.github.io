@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /resume
+  - /research
 ---
 
 I came from an academic background of Chemical Engineering, with research experiences in Petrochemical Process, Thermodynamic Modeling and Active Matter System. With the years of training, I picked up several key skills, including programming, data analysis and algorithm optimization. 
