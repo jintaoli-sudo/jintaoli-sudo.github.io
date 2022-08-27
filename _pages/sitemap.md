@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "Skills"
+permalink: /skills/
 author_profile: true
 ---
 
