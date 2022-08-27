@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /Research/
 author_profile: true
 ---
 
-Please check the [Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=zlCBoJIAAAAJ&view_op=list_works&sortby=pubdate) for my publications.
+Overview
+======
+I used to do research in 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+![This is an image](../images/research_outline_all.pdf)
