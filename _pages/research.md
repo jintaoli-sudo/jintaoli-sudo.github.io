@@ -11,10 +11,20 @@ redirect_from:
 I used to do research in the following areas:
 ![This is an image](../images/research_outline.png)
 
-<!-- {% include base_path %}
-Process design/optimization
+Publications
 ======
-How to achieve a better performance of a process is a fundenmnaal question in any production process. A typical process optimization question can be simply decribed as to solve an equation with constrains, varaiible and an objective function. Nevertheless, it usually requires the imple
+- <ins>J. Li</ins>, S. Schnyder, M. Turner, and R. Yamamoto (2022). Competition between Cell Types under Cell Cycle Regulation with Apoptosis. *Physical Review Research*, accepted.
+- <ins>J. Li</ins>, S. Schnyder, M. Turner, and R. Yamamoto (2021). Role of the Cell Cycle in Collective Cell Dynamics. *Physical Review X*, 11, 031025.
+- J. Wang, <ins>J. Li</ins>, W. Cao, L. Zhu, and R. Lakerveld (2020). An ion-specific electrolyte non-random two-liquid segment activity coefficient model with improved predictive capabilities for aqueous electrolyte solutions. *Fluid Phase Equilibria*, 517, 112605.
+-  <ins>J. Li</ins> (2016). Comparison of Energy Consumption between Propane-Propene Distillation Separation Precess and Prospect Forecast. *Natural Gas and Oil*, 34(6), 46-50.
+
+Talks
+======
+- test
+- test
+
+<!-- {% include base_path %}
+
 
 Thermodynamic models
 ======
