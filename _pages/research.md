@@ -9,7 +9,7 @@ redirect_from:
 
 
 I used to do research in the following areas:
-![This is an image](../images/research_outline_all.pdf)
+![This is an image](../images/research_outline.png)
 
 <!-- {% include base_path %}
 Process design/optimization
