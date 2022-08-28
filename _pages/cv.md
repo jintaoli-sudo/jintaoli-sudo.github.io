@@ -14,35 +14,32 @@ For more details, please contact jintao-li@outlook.com.
 
 {% include base_path %}
 
+Work experience
+======
+* Data Scientist, CTW Inc
+  * Apr - Aug 2022
+  * Algorithm design of illegal user detection.
+  * Design and development of a machine translation framework for domain adaption.
+
+
 Education
 ======
 * Ph.D in Chemical Engineering, Kyoto University
   * Apr 2019 - Mar 2022
   * Advisor: [Prof. Ryoichi Yamamoto](https://www-tph.cheme.kyoto-u.ac.jp)
   * Thesis: *Understanding the Physical Mechanisms behind the Collective Dynamics of Proliferating Cells*
+  * Developed a particle-based modeling program as each particle can be simulated as a cell, with the behaviors of cell growth, division and apoptosis.
+  * Studied the role of cell cycle under the behaviors of proliferating cell colonies and cell competition.
 * M.Sc. in Chemical and Biomolecular Engineering, Hong Kong University of Science and Technology, Hong Kong
   * Sep 2017  - Nov 2018
   * Advisor: [Prof. Richard Lakerveld](http://kelakerveld.people.ust.hk)
   * Thesis: *Modified eNRTL-SAC Model for Aqueous Electrolyte Solution*
+  * Revisited the thermodynamic models and established the solubility function with pH.
+  * Applied modeling to pH-control process design to improve solubility of pharmaceuticals.
 * B.Eng. in Chemical Engineering and Technology, Southwest Petroleum University, China, 2017 
   * Sep 2013 - Jun 2017
   * Thesis: *The process design of 1 mt/y diesel hydrogenation unit*
-
-Work experience
-======
-* Data Scientist, CTW Inc
-  * Apr - Aug 2022
-  * Fradu user detection
-  * Machine translation
-  
-Programming skills
-======
-* C++: 3 years, participated in developing a large-scale particle-based simulation program during Ph.D. course.
-* Python: 4 years, for data processing, visualization and machine learning framework.
-  * Pandas, NumPy, Matplotlib, PyTorch.
-* Git: 1.5 years.
-* AWS: 1 year.
-
+  * Trained as a chemical engineer with a focus on computer-aid process system engineering.
 
 Online courses
 ======
@@ -59,12 +56,6 @@ Online courses
   * by edX.
   * Issued Sep 2020.
 
-Languages
-======
-* Chinese: Native
-* English: Full professional proficiency (TOEFL iBT: 100/120)
-* Japanese: Daily conversation level (JLPT N2)
- 
 
 <!-- Service and leadership
 ======
