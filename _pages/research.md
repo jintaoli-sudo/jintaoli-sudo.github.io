@@ -8,16 +8,39 @@ redirect_from:
 ---
 
 
-I used to do research in
-- Process design/optimization
-- Thermodynamicl modelings
-- Simulation of active matter systems
-- Biophysics
-
-{% include base_path %}
-
-Research
-======
-I used to do research in 
-
+I used to do research in the following areas:
 ![This is an image](../images/research_outline_all.pdf)
+<!-- {% include base_path %}
+
+Process design/optimization
+======
+How to achieve a better performance of a process is a fundenmnaal question in any production process. A typical process optimization question can be simply decribed as to solve an equation with constrains, varaiible and an objective function. Nevertheless, it usually requires the imple
+
+
+
+Thermodynamic models
+======
+In pharmecetitical and many other industies, how to predict the propertiet is crucial for the production process.
+
+
+Simulation of active matters
+======
+Active matter is matter composed of large numbers of active "agents", each of which consumes energy in order to move or to exert mechanical forces, e.g. cells grow and divide into a larger colony. Due to the feature 
+
+
+
+Theoretical biophysics
+======
+Physics can help to understand biology, as it mainly provides the understanding under the hood. For -->
+
+
+
+
+
+
+
+
+
+
+
+
