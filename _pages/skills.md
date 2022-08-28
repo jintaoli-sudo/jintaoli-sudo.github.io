@@ -7,9 +7,17 @@ redirect_from:
   - /skills
 ---
 
-I came from an academic background of Chemical Engineering, with research experiences in Petrochemical Process, Thermodynamic Modeling and Active Matter System. With the years of training, I picked up several key skills, including programming, data analysis and algorithm optimization. 
+Programming skills
+======
+* C++: 3 years, participated in developing a large-scale particle-based simulation program during Ph.D. course.
+* Python: 4 years, for data processing, visualization and machine learning framework.
+  * Experienced framework: PyTorch, Scikit-Learn, SciPy, Pandas, NumPy, Matplotlib.
+* Other hands-on experiences: Git, AWS(Sagemaker), Airflow, Matlab, Latex.
 
-For more details, please contact jintao-li@outlook.com.
-<!-- [CV as July 2021](https://hkustconnect-my.sharepoint.com/:b:/g/personal/jlids_connect_ust_hk/EeQDu_R6APxEgrc1h0xlvnsBZlrntQ8WbER7wZNpdNR0rA?e=u5wDYr). -->
+Languages
+======
+* Chinese: Native
+* English: Full professional proficiency (TOEFL iBT: 100/120)
+* Japanese: Daily conversation level (JLPT N2)
 
 {% include base_path %}
