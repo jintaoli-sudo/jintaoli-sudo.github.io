@@ -30,6 +30,9 @@ Education
   * Thesis: *Understanding the Physical Mechanisms behind the Collective Dynamics of Proliferating Cells*
   * Developed a particle-based modeling program as each particle can be simulated as a cell, with the behaviors of cell growth, division and apoptosis.
   * Studied the role of cell cycle under the behaviors of proliferating cell colonies and cell competition.
+* Visiting student, University of Tokyo
+  * Jul 2021 - Sep 2021
+  * Advisor: [Prof. Kazumasa Takeuchi](http://lab.kaztake.org/index.html)
 * M.Sc. in Chemical and Biomolecular Engineering, Hong Kong University of Science and Technology, Hong Kong
   * Sep 2017  - Nov 2018
   * Advisor: [Prof. Richard Lakerveld](http://kelakerveld.people.ust.hk)
