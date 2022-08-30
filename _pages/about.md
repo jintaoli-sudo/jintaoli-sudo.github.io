@@ -16,7 +16,7 @@ redirect_from:
 
 Recent news
 ======
-- August 2022, our paper *Competition between Cell Types under Cell Cycle Regulation with Apoptosis* has been accpeted on Physical Review Research.
+- August 2022, our paper [*Competition between Cell Types under Cell Cycle Regulation with Apoptosis*](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033156) has been published on Physical Review Research.
 - April 2022, I joined [CTW Inc](https://ctw.inc) as a Data Scientist.
 - March 2022, I graduated from Kyoto University with a Ph.D. degree of Chemical Engineering.
 - March 2022,  I present [*Competition between two cell types under cell cycle regulation with apoptosis*](https://meetings.aps.org/Meeting/MAR22/Session/G04.13) at APS March Meeting 2022.
