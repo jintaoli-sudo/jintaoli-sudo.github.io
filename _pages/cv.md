@@ -14,7 +14,7 @@ For more details or specific questions, please contact jintao-li@outlook.com.
 
 Work experience
 ======
-* Data Scientist/Assistance Manager, Ocean Network Express, Tokyo (Sep 2022 - Present):
+* Data Scientist/Assistant Manager, Ocean Network Express, Tokyo (Sep 2022 - Present):
   * Algorithm design and development of container flow forecasts based on machine learning.
   * Digital transformation developer that helps the team to reduce manual works.
 * Data Scientist, CTW Inc, Tokyo (Apr - Aug 2022):
