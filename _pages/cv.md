@@ -27,14 +27,14 @@ Education
 * Ph.D in Chemical Engineering, Kyoto University, Japan (Apr 2019 - Mar 2022):
   * Advisor: [Prof. Ryoichi Yamamoto](https://www-tph.cheme.kyoto-u.ac.jp)
   * Thesis: *Understanding the Physical Mechanisms behind the Collective Dynamics of Proliferating Cells*
-  <!--* Developed a particle-based modeling program as each particle can be simulated as a cell, with the behaviors of cell growth, division and apoptosis.
+  <!-- * Developed a particle-based modeling program as each particle can be simulated as a cell, with the behaviors of cell growth, division and apoptosis.
   * Studied the role of cell cycle under the behaviors of proliferating cell colonies and cell competition. -->
 * Visiting student, University of Tokyo, Japan (Jul - Sep 2021):
   * Advisor: [Prof. Kazumasa Takeuchi](http://lab.kaztake.org/index.html)
 * M.Sc. in Chemical and Biomolecular Engineering, Hong Kong University of Science and Technology (Sep 2017 - Nov 2018):
   * Advisor: [Prof. Richard Lakerveld](http://kelakerveld.people.ust.hk)
   * Thesis: *Modified eNRTL-SAC Model for Aqueous Electrolyte Solution*
-  <!--* Revisited the thermodynamic models and established the solubility function with pH.
+  <!-- * Revisited the thermodynamic models and established the solubility function with pH.
   * Applied modeling to pH-control process design to improve solubility of pharmaceuticals. -->
 * B.Eng. in Chemical Engineering and Technology, Southwest Petroleum University, China (Sep 2013 - Jun 2017)
   * Thesis: *The process design of 1 mt/y diesel hydrogenation unit*
@@ -43,16 +43,16 @@ Education
 Online Ceourses
 ======
 * [PyTorch for Deep Learning](https://www.icloud.com/iclouddrive/098bnLVQJf1N2GakBXc6_Voug#python-for-deep-learning-zero-to-mastery)
-  <!--* by Zero To Mastery Academy.
+  <!-- * by Zero To Mastery Academy.
   * Issued Aug 2022.-->
 * [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/H6TDQVQS266U)
-  <!--* by Coursera.
+  <!-- * by Coursera.
   * Issued Jan 2021. -->
 * [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/WDVPUYTPNS98)
-  <!--* by Coursera.
+  <!-- * by Coursera.
   * Issued Oct 2020.-->
 * [Professional Certificate in Computer Science for Artificial Intelligence](https://credentials.edx.org/credentials/bf0c2d7654be4553b79f352375e05506/)
-  <!--* by edX.
+  <!-- * by edX.
   * Issued Sep 2020.-->
 
 
