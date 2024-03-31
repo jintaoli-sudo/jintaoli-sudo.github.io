@@ -22,7 +22,8 @@ Programming Skills
 Language Skills
 ======
 * Chinese: Native
-  * Mandarin: Native, Cantonese: Conversational
+  * Mandarin: Native
+  * Cantonese: Conversational
 * English: Full professional proficiency (TOEFL iBT: 100/120)
 * Japanese: Conversational level (JLPT N2)
 {% include base_path %}
